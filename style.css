@@ -29,7 +29,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: 55%;
     height: 50vh;
     background-color: rgb(62, 62, 63);
     border-radius: 10px;
@@ -38,14 +38,16 @@ body{
 }
 .container h1{
     text-align: center;
-    color: #00ffcc;
-    margin-bottom: 20px;
+    color: #9ce614;
+    margin-bottom: 90px;
     font-size: 40px;
     position: absolute;
+    gap: 10px;
     
 }
 .main-container input{
-    margin-top: 95px;
+    width: 70%;
+    margin-top: 30px;
     padding: 10px;
     border: none;
     border-radius: 20px;
@@ -55,8 +57,8 @@ body{
 
 }
 .main-container button{
-    margin-top: 95px;
-    background-color: #00ffcc;
+    margin-top: 30px;
+    background-color: #9ce614;
     border:none;
     padding: 10px;
     border-radius: 20px;
@@ -85,7 +87,7 @@ li {
 }
 
 .task input[type="checkbox"] {
-  accent-color: #00ffcc;
+  accent-color: #9ce614;
   width: 20px;
   height: 20px;
 }
