@@ -13,11 +13,13 @@ body {
 .container {
   width: 90%;
   max-width: 500px;
+  height: auto;
   background-color: #1e1e1e;
   padding: 30px;
   border-radius: 12px;
   box-shadow: 0 0 20px rgba(0,0,0,0.4);
 }
+
 
 h1 {
   text-align: center;
